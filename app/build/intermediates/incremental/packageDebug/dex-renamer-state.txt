@@ -1,0 +1,7 @@
+#Sun Jun 25 11:50:51 CST 2017
+base.0=E\:\\Lauguage Program Design\\Android\\Android Project\\AndroidGobang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_05eee9cf3c9933e4f1489f5ae6b0c79f160a313f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Lauguage Program Design\\Android\\Android Project\\AndroidGobang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e8ca384a7f3c8ce4ef985d46a8bd217203c49f7b\\classes.dex
+base.1=E\:\\Lauguage Program Design\\Android\\Android Project\\AndroidGobang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e8ca384a7f3c8ce4ef985d46a8bd217203c49f7b
+file.0=E\:\\Lauguage Program Design\\Android\\Android Project\\AndroidGobang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_05eee9cf3c9933e4f1489f5ae6b0c79f160a313f\\classes.dex

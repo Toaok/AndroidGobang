@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Lauguage Program Design\Android\Android Project\AndroidGobang\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0b5cfd7fa283fbf5da3aede1efe7df141a67def7">
+        <dex dex="E:\Lauguage Program Design\Android\Android Project\AndroidGobang\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05eee9cf3c9933e4f1489f5ae6b0c79f160a313f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Lauguage Program Design\Android\Android Project\AndroidGobang\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e675514178701d13f3652c299f0a7bb6b6026ed5">
+        <dex dex="E:\Lauguage Program Design\Android\Android Project\AndroidGobang\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e8ca384a7f3c8ce4ef985d46a8bd217203c49f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TOAOK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Lauguage Program Design\Android\Android Project\AndroidGobang\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_9a86908fdcf8d95aa911e4e74877ccf568ff6f65\classes.dex" />
+    </item>
+
+</items>
